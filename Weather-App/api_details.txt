@@ -1,0 +1,5 @@
+key = ef2f460d8a0382373a4c290a6a4720f1
+url = http://api.weatherstack.com/
+
+Ex.
+https://api.weatherstack.com/current?access_key=ef2f460d8a0382373a4c290a6a4720f1&query=37.8267,-122.4233
